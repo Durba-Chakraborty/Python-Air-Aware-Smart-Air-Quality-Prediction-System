@@ -13,14 +13,19 @@ Build an interactive dashboard for visualization.
 
 # Tech Stack
 Programming Language: Python
-Libraries used: Streamlit , Pandas , NumPy , Plotly ,  Time
+Libraries used:
+Streamlit , 
+Pandas , 
+NumPy , 
+Plotly ,  
+Time
 
 # System Architecture
-Data collection and upload
-Data preprocessing
-ML model
-AQI prediction
-Output
+Data collection and upload.
+Data preprocessing.
+ML model.
+AQI prediction.
+Output.
 
 # Conclusion:
 Project successfully predicts AQI.
