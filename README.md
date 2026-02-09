@@ -27,6 +27,8 @@ ML model.
 AQI prediction.
 Output.
 
+# password for login
+admin123
 # Conclusion:
 Project successfully predicts AQI.
 Helps in early warning and pollution control.
